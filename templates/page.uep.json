@@ -1,0 +1,79 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "rich_text_dzQAy6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_6LUNLM": {
+          "type": "subheading",
+          "settings": {
+            "text": "First Time in India"
+          }
+        },
+        "heading_ktndQ6": {
+          "type": "heading",
+          "settings": {
+            "text": "Elevate Your Jewellery Experience with LuxeVogue’s Unlimited Exchange Program (UEP)",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6LUNLM",
+        "heading_ktndQ6"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_cQrXdn": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_FNjMnd": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Introduction</h2><p>In our ever-evolving world, LuxeVogue is committed to pushing the boundaries of what's possible in the realm of jewellery. We are thrilled to introduce a groundbreaking feature that's set to redefine your jewellery shopping experience – the Unlimited Exchange Program (UEP). This initiative marks a significant milestone as LuxeVogue becomes the pioneer of such a service in India. Let's delve into the details of this revolutionary program that empowers you like never before.</p><h2>1. UEP Unveiled:</h2><p>The Unlimited Exchange Program, fondly known as UEP, is a testament to LuxeVogue's dedication to your satisfaction. With this program, you gain the flexibility to exchange your jewellery items with ease, allowing you to curate your collection with a sense of freedom and choice like never before. It's a game-changer, and here's how it works.</p><h2>2. Understanding Exchange Eligibility:</h2><p>To participate in the UEP, certain criteria must be met:<br/><br/><strong>- Product Condition</strong>: The product you wish to exchange must be in its original condition, devoid of any signs of wear or damage. Our aim is to ensure that you receive the highest value for your exchange.<br/><br/><strong>- Proof of Purchase</strong>: To initiate an exchange, you will need to provide proof of purchase, such as an invoice or order confirmation.<br/><br/><strong>- 30-Day Wait Period</strong>: Exchanges can be initiated only after a 30-day waiting period from the date of purchase. This ensures that you've had ample time to assess your jewellery and decide on any changes. </p><p><strong>- Cost Price (CP) Threshold</strong>: The UEP applies to products with a Cost Price (CP) equal to or greater than ₹2500. This threshold ensures that you gain maximum value and convenience from our program. These carefully selected criteria are designed to offer you a hassle-free and rewarding exchange experience.</p><h2>3. Streamlined Exchange Process:</h2><p>The UEP exchange process is designed to be straightforward and efficient, ensuring you have a seamless experience.<br/><br/><strong>a. Submit Pictures & Videos: </strong>When you're ready to exchange your jewellery, simply log in with your registered ID on our website. This will enable you to check your eligibility and calculate the exchange value. During this process, you will also be prompted to upload pictures and videos of the product you wish to exchange. This step ensures transparency and accuracy in evaluating your jewellery.<br/><br/><strong>b. Approval & Pickup:</strong> Once your exchange request is submitted and your product is approved, we will initiate a pickup request. Our dedicated team will arrange for the safe and secure pickup of your item from the address you provide.<br/><br/><strong>c. Product Selection & Delivery: </strong>Upon receiving and inspecting the returned product, you can select the new jewellery piece you desire. Any balance from your previous purchase will be stored in your wallet, ready for your next indulgence.</p><p> <strong>d. Unlimited Exchange:</strong> LuxeVogue's UEP allows you to enjoy the benefits of unlimited exchanges. After every successful exchange, you have the flexibility to shop again or make another exchange, all within the comfort of your unique style journey.</p><h2>4. Exchange Restrictions:</h2><p>While the UEP opens doors to a world of jewellery possibilities, it's essential to understand certain restrictions:<br/><br/><strong>- Exchange Value:</strong> The exchange value is determined by market prices and the condition of the returned product. Please note that the exchange option is not applicable to customized or engraved items.<br/><br/><strong>- Geographical Limitation:</strong> The Unlimited Exchange Program (UEP) is valid exclusively for purchases made within India and items delivered within India. Regrettably, this offer does not extend to our international clientele.</p><h2>Conclusion:</h2><p>LuxeVogue's Unlimited Exchange Program (UEP) is a testament to our commitment to your satisfaction and the pursuit of excellence in the world of jewellery. We invite you to experience the next level of flexibility and empowerment with LuxeVogue. Explore, exchange, and elevate your jewellery collection with LuxeVogue – where your choices are boundless, and your style is limitless. If you have any questions or need assistance, our dedicated customer support team is here to guide you through this exciting journey. We look forward to enhancing your jewellery experience with LuxeVogue's UEP.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_FNjMnd"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_dzQAy6",
+    "rich_text_cQrXdn"
+  ]
+}
